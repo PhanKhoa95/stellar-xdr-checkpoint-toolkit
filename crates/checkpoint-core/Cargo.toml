@@ -1,0 +1,6 @@
+[package]
+name = "stellar-checkpoint-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Stellar History Archive checkpoint arithmetic and XDR frame utilities"
